@@ -1,0 +1,38 @@
+body h1 h2 h3 h4	{
+	background-color: #f0efef;
+	font-family: 'Pavanam', serif;
+	padding: 20px;
+}
+
+h1 {
+font-size: 38px;
+font-weight: 700;
+}
+
+h2 {
+font-size: 24px;
+font-weight: 500;
+
+}
+
+h3 {
+font-size: 22px;
+font-weight: 400;
+
+}
+
+h4 {
+font-size: 16px;
+font-weight: 300;
+
+}
+
+ul	{
+	font-family: 'Pavanam', sans-serif;
+	padding: 20px;
+}
+
+p	{
+	font-family: 'Pavanam', sans-serif;
+	padding: 20px;
+}
